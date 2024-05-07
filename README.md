@@ -1,2 +1,2 @@
 # tic-tac-toe-game
-top #6 assignment
+- This is a simple Tic Tac Toe game using JavaScript programming language.
